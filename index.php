@@ -86,10 +86,7 @@ function toggleMusic(){
 	<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 	<?php
-		//infinity user: epiz_31074891
-		//bplaced db : epiz_31074891_tribusg
-		//bplaced pw : PlLwKnxJllG5vs
-		//infinity host: sql102.epizy.com
+		
 		$pdo = "";
 		
 		if($_SERVER['HTTP_HOST'] == "localhost"){
