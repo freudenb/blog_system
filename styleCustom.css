@@ -1,0 +1,34 @@
+#pagePreview{
+	background:  -moz-element(#content);
+	background-repeat:no-repeat;
+	background-size: 50%;
+	position:fixed;
+	right:1%;
+	height:70%;
+	width:60%;
+}
+
+#pagePreview p{
+	
+	color:white;
+}
+
+#previewCanvas{
+	
+	
+}
+
+canvas{
+	border:1px solid black;
+	
+}
+
+.aPrototypePost{
+	
+	margin-top:50px;
+}
+
+#content .aPrototypePost h3{
+	
+	color:#cca43dff;
+}
